@@ -12,6 +12,7 @@ public class Start {
 	 * @throws IOException User cannot input anything
 	 */
 
+	
 	static Person createPerson() throws IOException {
 		System.out.println("Your name:");
 		BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
