@@ -1,5 +1,9 @@
 import java.util.Date;
-
+/**
+ * 
+ * @author Nick Veremeichyk
+ *
+ */
 public class Person {
 	private String name;
 	private String surname;
